@@ -145,13 +145,14 @@ TwilightForest v2.3.7~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/twil
 Railcraft v9.8.0.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Railcraft_1.7.10-9.8.0.0.jar
 cgo v3.2.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/CGOrigin-1.7.10-3.2.0.jar
 CarpentersBlocks v3.3.6~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Carpenter%27s%20Blocks%20v3.3.6%20-%20MC%201.7.10.jar
-BuildCraft|Compat v7.0.8~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-compat-7.0.8.jar~buildcraft-compat-7.0.8
-BuildCraft|Factory v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-factory.jar~buildcraft-7.1.14-factory
-BuildCraft|Robotics v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-robotics.jar~buildcraft-7.1.14-robotics
-BuildCraft|Silicon v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-silicon.jar~buildcraft-7.1.14-silicon
-BuildCraft|Energy v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-energy.jar~buildcraft-7.1.14-energy
-BuildCraft|Transport v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-transport.jar~buildcraft-7.1.14-transport
-BuildCraft|Builders v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-builders.jar~buildcraft_builders
+BuildCraft_Compat v7.0.8~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-compat-7.0.8.jar
+BuildCraft|Compat v7.0.8~BuildCraft_Compat v7.0.8
+BuildCraft_Factory v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-factory.jar
+BuildCraft_Robotics v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-robotics.jar
+BuildCraft_Silicon v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-silicon.jar
+BuildCraft_Energy v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-energy.jar
+BuildCraft_Transport v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-transport.jar
+BuildCraft|Builders v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-builders.jar
 brewingapi v1.2.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Brewing-API-1.7.2-1.2.0.jar
 Botania vr1.8-248~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Botania r1.8-248.jar
 AWWayofTime v1.3.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/TooMuchTime-1.7.10-2.4.0.B3-universal.jar
