@@ -42,7 +42,7 @@ ServerTools-BACKUP v1.7.10-2.2.1.24~1.7.10~https://github.com/glidev5/mcmodjar/r
 ServerTools v1.7.10-2.2.0.79~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ServerTools-CORE-1.7.10-2.2.0.79.jar
 progressiveautomation v1.6.18~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProgressiveAutomation-1.7.10-1.6.18.jar
 ProjectE v1.7.10-PE1.9.5~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectE-1.7.10-PE1.9.5.jar
-ProjRed|Core v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Base.jar~ProjectRed-1.7.10-4.6.1.80-Base
+ProjRed|Core v4.6.1.80~ProjectRed-1.7.10-4.6.1.80-Base~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Base.jar
 xxProjRed|Transmission v4.6.1.80~1.7.10~
 ProjRed|Compatibility v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Compat.jar~ProjectRed-1.7.10-4.6.1.80-Compat
 ProjRed|Integration v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Integration.jar~ProjectRed-1.7.10-4.6.1.80-Integration
