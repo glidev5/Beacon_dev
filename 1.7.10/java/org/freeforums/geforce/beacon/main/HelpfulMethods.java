@@ -99,7 +99,7 @@ public class HelpfulMethods {
 	}
 	
 	public static String cleanFileName(String modidIn){
-		String result=modidIn.replaceAll(/[|]/,"_");
+		String result=modidIn.replaceAll("\\[|]","_");
 		return result;
 	}
 	
