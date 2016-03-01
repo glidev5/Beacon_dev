@@ -24,4 +24,12 @@ securitycraft v1.8.1~1.7.10~http://addons-origin.cursecdn.com/files/2272/715/[1.
 adventurebackpack v1.7.10-0.8b~1.7.10~http://addons-origin.cursecdn.com/files/2225/214/adventurebackpack-1.7.10-0.8b.jar
 archmagus v0.6.0~1.7.10~http://addons-origin.cursecdn.com/files/2212/69/Archmagus-1.7.10-0.6.0.jar
 Thaumcraft v4.2.3.5~1.7.10~http://addons-origin.cursecdn.com/files/2227/552/Thaumcraft-1.7.10-4.2.3.5.jar
+ThermalDynamics v1.7.10R1.1.0B2~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ThermalDynamics-%5B1.7.10%5D1.1.0B2-149.jar
+ThaumicExploration v0.6.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ThaumicExploration-1.7.10-1.1-37.jar
+thaumcraftneiplugin v@VERSION@~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/thaumcraftneiplugin-1.7.10-1.7a.jar
+TerritoryZone v1.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/TerritoryZone%201.7.10%20V11b.jar
+TechnoMagi v1.4.0.44-dev~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/TechnoMagi-Mod-1.7.10.jar
+supercraftingframe v1.7.10.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/supercraftingframe-1.7.10.3.jar
+StorageDrawers v1.7.10-1.5.11~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/StorageDrawers-1.7.10-1.5.11.jar
+StevesFactoryManager ~~https://github.com/glidev5/mcmodjar/raw/master/StevesFactoryManagerA93.jar
 
