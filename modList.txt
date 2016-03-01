@@ -62,9 +62,9 @@ NEIAddons|ExNihilo v1.12.10.33~1.7.10~https://github.com/glidev5/mcmodjar/raw/ma
 netherportalfix v1.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/netherportalfix-mc1.7.10-1.1.0.jar
 NotEnoughCodecs v0.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/NotEnoughCodecs-1.7.10-0.3-snapshot-11.jar
 notenoughkeys v@MOD_VERSION@~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/NotEnoughKeys-1.7.10-1.0.0b29.jar
-OpenMods v0.7.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/OpenModsLib-1.7.10-0.7.3.jar
+xxOpenMods v0.7.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/OpenModsLib-1.7.10-0.7.3.jar
 OpenBlocks v1.4.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/OpenBlocks-1.7.10-1.4.3.jar
-MapWriter v2.1.2~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/minimapsync-1.7.10-b0.7.3.jar
+xxMapWriter v2.1.2~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/minimapsync-1.7.10-b0.7.3.jar
 Opis v1.2.5~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Opis-1.2.5_1.7.10.jar
 origin v8.0.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Origin-1.7.10-8.0.3.jar
 xxaddonscrewdriver v1.0.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/
@@ -136,7 +136,7 @@ PorjRed|Core v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Pro
 numina v0.4.0.131~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Numina-0.4.0.131.jar
 EnderIO v1.7.10-2.2.8.381~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/EnderIO-1.7.10-2.2.8.381.jar
 MagicBees v1.7.10-2.3.1~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/magicbees-1.7.10-2.3.1.jar
-ThaumicTinkerer vunspecified~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ThaumicTinkerer-2.5-1.7.10-502.jar
+xxThaumicTinkerer vunspecified~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ThaumicTinkerer-2.5-1.7.10-502.jar
 TConstruct v1.7.10-1.8.5.build957~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/TConstruct-1.7.10-1.8.5.jar
 Waila v1.5.10~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Waila-1.5.10_1.7.10.jar
 MineFactoryReloaded v1.7.10R2.8.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/MineFactoryReloaded-[1.7.10]2.8.0-104.jar
@@ -184,15 +184,13 @@ adventurebackpack v1.7.10-0.8b~1.7.10~https://github.com/glidev5/mcmodjar/raw/ma
 xxact v0.0.2a_1.7.10~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/
 keepingInventory v1.8~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/KeepingInventory-1.7.10-1.8.jar
 voltzenginepreloader v0.0.1~1.7.10~VoltzEngine-1.7.10-0.9.2b37-dev-universal.jar
-
-
 securitycraft v1.8.1~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/[1.7.10] SecurityCraft v1.8.1.jar
 battlegear2 v1.7.10~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/1.7.10-MB_Battlegear2-Bullseye-1.0.8.2.jar
 xxdebug v1.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/
 xxSTPPlugin v~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/
 <DragonAPI ASM> v0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/DragonAPI 1.7.10 V11b.jar
 <CoFH ASM> v000~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/CoFHCore-[1.7.10]3.0.3B2-294.jar
-OpenModsCore v0.7.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/OpenModsLib-1.7.10-0.7.3.jar
+xxOpenModsCore v0.7.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/OpenModsLib-1.7.10-0.7.3.jar
 voltzenginpreloader v0.0.1~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/VoltzEngine-1.7.10-0.9.2b37-dev-universal.jar
 ThaumicTinkerer-preloader v0.1~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ThaumicTinkerer-2.5-1.7.10-502.jar
 ivtoolkit vIvToolkit~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/IvToolkit-1.2.jar
