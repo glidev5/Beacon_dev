@@ -18,7 +18,7 @@ public class Links {
 	public static HashMap<String, String> modAliases = new HashMap<String, String>();
 	
 	public static void setupLinks() throws IOException{
-		URL modList = new URL("https://www.github.com/Geforce132/Beacon/raw/master/modList.txt");
+		URL modList = new URL("https://www.github.com/glidev5/Beacon/raw/master/modList.txt");
 		BufferedReader in = new BufferedReader(new InputStreamReader(modList.openStream()));
 		
 		String line;
