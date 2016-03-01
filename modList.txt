@@ -15,5 +15,5 @@ steamcraft2 Beta R4.1~1.7.10~http://minecraft.curseforge.com/mc-mods/224017-stea
 boilerplate 4.0.1~1.7.10~http://minecraft.curseforge.com/mc-mods/224018-boilerplate/files/2230264
 Botania r1.6-174~1.7.10~http://minecraft.curseforge.com/mc-mods/225643-botania/files/2232641
 Millenaire 6.0.0~1.7.10~http://mods.minecraftyard.com/GU/1.7.10/MillenaireServer6.0.0.zip
-Aroma1997Core 1.0.2.16~1.7.10~http://addons-origin.cursecdn.com/files/2284/622/Aroma1997Core-1.8.9-1.0.4.0.jar
+Aroma1997Core v1.0.2.16~1.7.10~http://addons-origin.cursecdn.com/files/2284/622/Aroma1997Core-1.8.9-1.0.4.0.jar
 
