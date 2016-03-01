@@ -15,7 +15,7 @@ steamcraft2 Beta R4.1~1.7.10~http://minecraft.curseforge.com/mc-mods/224017-stea
 boilerplate 4.0.1~1.7.10~http://minecraft.curseforge.com/mc-mods/224018-boilerplate/files/2230264
 OpenModsCore v0.7.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/OpenModsLib-1.7.10-0.7.3.jar
 battlegear2 v1.7.10~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/1.7.10-MB_Battlegear2-Bullseye-1.0.8.2.jar
-securitycraft v1.8.1~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/[1.7.10] SecurityCraft v1.8.1.jar
+securitycraft v1.8.1~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/[1.7.10]%20SecurityCraft%20v1.8.1.jar
 adventurebackpack v1.7.10-0.8b~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/adventurebackpack-1.7.10-0.8b.jar
 archmagus v0.6.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Archmagus-1.7.10-0.6.0.jar
 Thaumcraft v4.2.3.5~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Thaumcraft-1.7.10-4.2.3.5.jar
