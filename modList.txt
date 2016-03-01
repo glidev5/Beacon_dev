@@ -42,7 +42,7 @@ ServerTools-BACKUP v1.7.10-2.2.1.24~1.7.10~https://github.com/glidev5/mcmodjar/r
 ServerTools v1.7.10-2.2.0.79~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ServerTools-CORE-1.7.10-2.2.0.79.jar
 progressiveautomation v1.6.18~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProgressiveAutomation-1.7.10-1.6.18.jar
 ProjectE v1.7.10-PE1.9.5~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectE-1.7.10-PE1.9.5.jar
-ProjRed|Core v4.6.1.80~ProjectRed-1.7.10-4.6.1.80-Base~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Base.jar
+ProjectRed-1.7.10-4.6.1.80-Base~ProjRed|Core v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Base.jar
 xxProjRed|Transmission v4.6.1.80~1.7.10~
 ProjRed|Compatibility v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Compat.jar~ProjectRed-1.7.10-4.6.1.80-Compat
 ProjRed|Integration v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Integration.jar~ProjectRed-1.7.10-4.6.1.80-Integration
@@ -131,7 +131,7 @@ EnderStorage v1.4.7.33~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/End
 DragonAPI v1.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/DragonAPI 1.7.10 V11b.jar
 Mystcraft v0.11.13.00~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/mystcraft-1.7.10-0.11.13.00.jar
 powersuits v0.11.0.300~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ModularPowersuits-0.11.0.300.jar
-PorjRed|Core v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Base.jar
+xxProjRed|Core v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Base.jar
 numina v0.4.0.131~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Numina-0.4.0.131.jar
 EnderIO v1.7.10-2.2.8.381~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/EnderIO-1.7.10-2.2.8.381.jar
 MagicBees v1.7.10-2.3.1~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/magicbees-1.7.10-2.3.1.jar
