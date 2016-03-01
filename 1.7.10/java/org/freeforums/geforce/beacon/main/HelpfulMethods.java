@@ -98,6 +98,11 @@ public class HelpfulMethods {
 		to.close();		
 	}
 	
+	public static String cleanFileName(String modidIn){
+		String result=modidIn.replaceAll(/[|]/,"_");
+		return result;
+	}
+	
 	public static void downloadFile(String modid, String url, String path, GuiCheckForMods screen) throws IOException{
 		BufferedInputStream in = null;
 		FileOutputStream out = null;
@@ -112,7 +117,7 @@ public class HelpfulMethods {
 			}
             
             File fileDirectory = new File(path);
-            File fileToCreate = new File(path + modid + ".jar");
+            File fileToCreate = new File(path + cleanFileName(modid) + ".jar");
 
 		    if(!fileDirectory.exists()){
 			    fileDirectory.mkdir();	
@@ -124,7 +129,7 @@ public class HelpfulMethods {
 		    }
 			
 			in = new BufferedInputStream(website.openStream());
-			out = new FileOutputStream(path + modid + ".jar");
+			out = new FileOutputStream(path + cleanFileName(modid) + ".jar");
 			
 			new ThreadDownloadFile(in, out, size, modid, screen).run();
 		}catch(Exception e){
