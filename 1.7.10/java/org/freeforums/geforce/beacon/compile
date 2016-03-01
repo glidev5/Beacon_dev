@@ -1,0 +1,22 @@
+#!/bin/sh
+javac -Xlint:unchecked -nowarn -classpath forge.jar:minecraft.jar:beacon.jar:forgeextract/cpw/mods/fml/common:classsoup:forgeextract/net/minecraftforge/common -d . main/HelpfulMethods.java 2> compile.log
+less compile.log
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

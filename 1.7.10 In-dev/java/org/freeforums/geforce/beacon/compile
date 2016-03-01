@@ -1,0 +1,2 @@
+#!/bin/sh
+javac -Xlint:unchecked Beacon.java main/*.java jsoup/*.java network/*.java

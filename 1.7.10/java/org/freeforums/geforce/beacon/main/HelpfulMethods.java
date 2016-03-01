@@ -99,7 +99,7 @@ public class HelpfulMethods {
 	}
 	
 	public static String cleanFileName(String modidIn){
-		String result=modidIn.replaceAll("\\[|]","_");
+		String result=modidIn.replaceAll("[|]","_");
 		return result;
 	}
 	
@@ -115,9 +115,10 @@ public class HelpfulMethods {
 			if(size < 0){
 				System.out.println("Could not get file size for mod: " + modid);
 			}
-            
+            String filename=path + cleanFileName(modid) + ".jar";
             File fileDirectory = new File(path);
-            File fileToCreate = new File(path + cleanFileName(modid) + ".jar");
+            File fileToCreate = new File(filename);
+			System.out.println(filename);
 
 		    if(!fileDirectory.exists()){
 			    fileDirectory.mkdir();	
@@ -129,7 +130,7 @@ public class HelpfulMethods {
 		    }
 			
 			in = new BufferedInputStream(website.openStream());
-			out = new FileOutputStream(path + cleanFileName(modid) + ".jar");
+			out = new FileOutputStream(filename);
 			
 			new ThreadDownloadFile(in, out, size, modid, screen).run();
 		}catch(Exception e){
