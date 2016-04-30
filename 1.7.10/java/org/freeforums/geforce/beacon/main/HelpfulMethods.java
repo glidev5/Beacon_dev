@@ -43,6 +43,7 @@ public class HelpfulMethods {
 	public static boolean hasMod(String modid, String version) {
 		for(int i = 0; i < Loader.instance().getActiveModList().size(); i++){
 			ModContainer mod = Loader.instance().getActiveModList().get(i);
+			System.out.println("Found Active Mod: "+mod.getModId() +"@"+ mod.getVersion());
 						
 			if((mod.getModId() + mod.getVersion().replaceFirst("v", "")).matches(modid + version)){
 				return true;

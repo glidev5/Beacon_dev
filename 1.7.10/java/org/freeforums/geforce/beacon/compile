@@ -1,6 +1,7 @@
 #!/bin/sh
-javac -Xlint:unchecked -nowarn -classpath forge.jar:minecraft.jar:beacon.jar:forgeextract/cpw/mods/fml/common:classsoup:forgeextract/net/minecraftforge/common -d . main/HelpfulMethods.java 2> compile.log
-less compile.log
+#javac -Xlint:unchecked -nowarn -cp "forge.jar:minecraft.jar:beacon.jar:forgeextract/cpw/mods/fml/common:classsoup:forgeextract/net/minecraftforge/common" -d . main/mod_Beacon.java 2> compile.log
+javac -Xlint:unchecked -nowarn -cp "beacon.jar:forge.jar" -d build/ main/*.java network/Links.java 2> compile.log
+cat compile.log
 
 
 
