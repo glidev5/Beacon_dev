@@ -198,4 +198,4 @@ Aroma1997Core v1.0.2.16~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Ar
 thexfactor117_skyrimmmc v1.2.4.10~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/SkyrimMC-1.2.4.12.jar
 CodeChickenCore v1.0.7.47~1.7.10~https://media.forgecdn.net/files/2262/89/CodeChickenCore-1.7.10-1.0.7.47-universal.jar
 NotEnoughItems v1.0.5.118~1.7.10~https://media.forgecdn.net/files/2302/312/NotEnoughItems-1.7.10-1.0.5.120-universal.jar
-BuildCraft|Core v7.1.23~1.7.10~https://media.forgecdn.net/files/2502/739/buildcraft-7.1.23.jar
+BuildCraft_Core v7.1.23~1.7.10~https://media.forgecdn.net/files/2502/739/buildcraft-7.1.23.jar
